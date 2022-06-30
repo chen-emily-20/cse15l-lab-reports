@@ -10,3 +10,5 @@ public static void main(String[] args){
 
 ![alt](https://www.emmymade.com/wp-content/uploads/2021/11/korean-corn-dogs-500x500.webp)
 
+Check out CeCe's ExperimentMD [here](https://cecilia-martinez.github.io/cse15l-lab-reports/index.html)!
+
