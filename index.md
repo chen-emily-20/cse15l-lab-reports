@@ -8,3 +8,5 @@ public static void main(String[] args){
 }
 ```
 
+![alt](https://www.emmymade.com/korean-style-corn-dogs/)
+
